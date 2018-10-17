@@ -9,6 +9,8 @@ python2.x
 
 bs4.BeautifulSoup
 
+webbrowser
+
 用法：
 git clone https://github.com/0FuzzingQ/xssee.git
 
