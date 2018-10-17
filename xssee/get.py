@@ -48,7 +48,7 @@ def get_detect(target,ck,flag,waf):
 			#print content_html
 			if exp in content_html or str(payload[i]) in content_html:
 				#print 'aaa'
-				#webbrowser.open(now_target)
+				webbrowser.open(now_target)
 				print '[*]find payload success!',now_target
 				#exit()
 			else:
