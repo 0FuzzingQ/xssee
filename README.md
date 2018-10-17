@@ -7,7 +7,7 @@
 
 python2.x
 
-pip install -r requirements.txt
+bs4.BeautifulSoup
 
 用法：
 git clone https://github.com/0FuzzingQ/xssee.git
